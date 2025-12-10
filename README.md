@@ -73,7 +73,7 @@ LaptopProject/
 Open terminal inside project folder:
 
 ```bash
-gcc src/main.c src/database.c src/input.c src/scoring.c src/recommendation.c -I include -o laptop_app
+gcc src/main.c src/database.c src/input.c src/scoring.c src/recommendation.c -I include -o laptopsearchengine
 
 ```
 
